@@ -1,7 +1,9 @@
+# FLC probe search
+
 ---
 title: "FLC probes in Brassica validation"
 author: Chung-Wen Lin
-date: January 10, 2017
+date: 2017-01-10
 ---
 
 A. According to the annotation file of Brassica chip "022520\_bna1\_1468306608983", there are **4** probes which match the keyword "FLC":
